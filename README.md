@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FABIO.
 - 👀 I’m interested in Fullstak development and new technologies.
-- 🌱 I’m currently JAVA and Spring framework
+- 🌱 I’m currently learning JAVA and Spring framework
 - 💞️ I’m looking to collaborate on any kind of project.
 - 📫 You can reach me at fabioqc10@gmail.com
 
